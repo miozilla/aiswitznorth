@@ -1,4 +1,4 @@
-# aiswitznorth
+# aiswitznorth ☕
 aiswitznorth : Azure AI Search #Index # Translation
 
 ## Objective
