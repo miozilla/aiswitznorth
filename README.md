@@ -1,5 +1,5 @@
 # aiswitznorth
-aiswitznorth : Azure AI Search #Index
+aiswitznorth : Azure AI Search #Index # Translation
 
 ## Objective
 To build an Azure AI Search index using data extracted from customer reviews (coffe shop).
