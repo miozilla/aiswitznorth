@@ -1,6 +1,10 @@
 # aiswitznorth
 aiswitznorth : Azure AI Search #Index
 
+## Objective
+To build an Azure AI Search index using data extracted from customer reviews (coffe shop).
+To enhancements search results (hotel booking) using translation skill.
+
 ## Azure AI Search #Index
 
 ![aiswitznorth001.png](aiswitznorth001.png)
